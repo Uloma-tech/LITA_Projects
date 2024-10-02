@@ -30,6 +30,9 @@ The primary source of data used is Microsoft excel spreedsheet
 Code Used during analysis
 ```SQL
 SELECT * FROM TABLE 1
+
+🎁
+👍
 WHERE CONDITION = TRUE
 
 |Heading 1|Heading 2|Heading 3|
